@@ -1,0 +1,15 @@
+<script src="${pageContext.request.contextPath}/resources/vendor/jquery/dist/jquery.min.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/jquery-ui/jquery-ui.min.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/slimScroll/jquery.slimscroll.min.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/metisMenu/dist/metisMenu.min.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/iCheck/icheck.min.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/sparkline/index.js"></script>
+<script src="${pageContext.request.contextPath}/resources/scripts/homer.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/bootstrap-datepicker-master/dist/js/bootstrap-datepicker.min.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/bootstrap-datepicker-master/dist/locales/bootstrap-datepicker.zh-CN.min.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/datatables/media/js/jquery.dataTables.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/datatables_plugins/integration/bootstrap/3/dataTables.bootstrap.min.js"></script>
+<script src="${pageContext.request.contextPath}/resources/scripts/common.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/sweetalert/lib/sweet-alert.min.js"></script>
+<script src="${pageContext.request.contextPath}/resources/vendor/summernote/dist/summernote.min.js"></script>
